@@ -1,0 +1,17 @@
+C:\Users\defiswin\source\repos\tickets\tickets\bin\Release\tickets.exe.config
+C:\Users\defiswin\source\repos\tickets\tickets\bin\Release\tickets.exe
+C:\Users\defiswin\source\repos\tickets\tickets\bin\Release\tickets.pdb
+C:\Users\defiswin\source\repos\tickets\tickets\bin\Release\BouncyCastle.Crypto.dll
+C:\Users\defiswin\source\repos\tickets\tickets\bin\Release\itextsharp.dll
+C:\Users\defiswin\source\repos\tickets\tickets\bin\Release\Xceed.Document.NET.dll
+C:\Users\defiswin\source\repos\tickets\tickets\bin\Release\Xceed.Words.NET.dll
+C:\Users\defiswin\source\repos\tickets\tickets\bin\Release\itextsharp.xml
+C:\Users\defiswin\source\repos\tickets\tickets\obj\Release\tickets.csproj.AssemblyReference.cache
+C:\Users\defiswin\source\repos\tickets\tickets\obj\Release\tickets.csproj.SuggestedBindingRedirects.cache
+C:\Users\defiswin\source\repos\tickets\tickets\obj\Release\tickets.Properties.Resources.resources
+C:\Users\defiswin\source\repos\tickets\tickets\obj\Release\tickets.csproj.GenerateResource.cache
+C:\Users\defiswin\source\repos\tickets\tickets\obj\Release\tickets.csproj.CoreCompileInputs.cache
+C:\Users\defiswin\source\repos\tickets\tickets\obj\Release\tickets.csproj.CopyComplete
+C:\Users\defiswin\source\repos\tickets\tickets\obj\Release\tickets.exe
+C:\Users\defiswin\source\repos\tickets\tickets\obj\Release\tickets.pdb
+C:\Users\defiswin\source\repos\tickets\tickets\obj\Release\tickets.UI_dev.resources

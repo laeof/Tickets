@@ -1,0 +1,26 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "b50b67e9-f193-4caf-84e5-428b55dd63c3": {
+      "ProjectGuid": "b50b67e9-f193-4caf-84e5-428b55dd63c3",
+      "DisplayName": "tickets",
+      "ColorIndex": 0
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Прочие файлы",
+      "ColorIndex": -1
+    },
+    "43a0448e-fdbe-4085-bf76-e06f3de7c3f6": {
+      "ProjectGuid": "43a0448e-fdbe-4085-bf76-e06f3de7c3f6",
+      "DisplayName": "UnitTestProject1",
+      "ColorIndex": 1
+    },
+    "6464fda0-4ddd-42c9-af86-e6a6690bb0be": {
+      "ProjectGuid": "6464fda0-4ddd-42c9-af86-e6a6690bb0be",
+      "DisplayName": "UnitTestProject1",
+      "ColorIndex": 2
+    }
+  },
+  "NextColorIndex": 3
+}

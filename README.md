@@ -1,4 +1,4 @@
-# Tickets - Software for generating a questions for an exam craeted with Windows Forms and .Net Framework 4.7.2
+# Tickets - Software for generating a questions for an exam created with Windows Forms and .Net Framework 4.7.2
 
 # Appearance:
 
